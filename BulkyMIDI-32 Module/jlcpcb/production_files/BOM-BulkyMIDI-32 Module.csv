@@ -1,0 +1,37 @@
+Comment,Designator,Footprint,LCSC
+Raspberry PI,A1,Raspberry_Pi_3B_Socketed_THT_FaceDown_MountingHoles,C132132
+H11L1M,U2,DIP-6_W7.62mm,C16587
+USB_C_Receptacle_USB2.0,J9,USB_C_Receptacle_XKB_U262-16XN-4BVC11,C165948
+1k,R3,R_0805_2012Metric,C17513
+220,"R1,R2,R4,R5,R6",R_0805_2012Metric,C17557
+330*,R7,R_0805_2012Metric,C17630
+1N4148WS,D1,D_SOD-323,C2128
+MIDI OUT,"J2,J3",DIN5_MIDI_OUT,C2939344
+100nF,"C1,C2,C3,C4,C7,C8",C_0805_2012Metric,C49678
+74HCT14,U1,SO-14_3.9x8.65mm_P1.27mm,C5967
+Mounting,M1,M3,
+Mounting,M2,M3,
+Mounting,M3,M3,
+Mounting,M4,M3,
+Faceplate,J4,PinSocket_1x10_P2.54mm_Vertical,
+P1_GND,JP1,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+P2_VCC,JP2,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+100uF,C5,CP_Radial_D6.3mm_P2.50mm,
+VOL_UP,SW4,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,
+470uF,C6,CP_Radial_D8.0mm_P3.50mm,
+DC_5V,SYM1,PWR_Specification,
+KY-040,ENC1,PinHeader_1x05_P2.54mm_Horizontal,
+MIDI THRU,J5,PinHeader_1x05_P2.54mm_Horizontal,
+Serial,J6,PinHeader_1x04_P2.54mm_Horizontal,
+GY-PCM5102,A2,GY-PCM5102,
+ROM,SW2,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,
+Module_Panel,J8,Module_Panel,
+OLED,IC1,1.3_I2C_OLED_No_mounting,
+SYNTH,SW1,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,
+VOL_DOWN,SW3,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,
+DC IN,J1,BARREL_JACK,
+SW4_SEL,JP3,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+Conn_Extras,J7,PinSocket_2x10_P2.54mm_Vertical,
+R,JP4,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
+G,JP5,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
+L,JP6,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
