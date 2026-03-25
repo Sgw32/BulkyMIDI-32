@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+M1,Mounting_Pin,M3_pin,99.815,-129.199,0.0,top
+M2,Mounting_Pin,M3_pin,182.365,-129.199,0.0,top
+M3,Mounting_Pin,M3_pin,182.365,-115.949,0.0,top
+M4,Mounting_Pin,M3_pin,99.815,-115.949,0.0,top

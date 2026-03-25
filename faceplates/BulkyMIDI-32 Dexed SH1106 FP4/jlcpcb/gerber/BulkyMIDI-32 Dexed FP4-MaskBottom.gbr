@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*%
+%TF.CreationDate,2026-03-25T15:46:35+03:00*%
+%TF.ProjectId,BulkyMIDI-32 Dexed FP4,42756c6b-794d-4494-9449-2d3332204465,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.1) date 2026-03-25 15:46:35*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,5.100000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,M1*%
+X99815000Y-129199000D03*
+%TD*%
+%TO.C,M2*%
+X182365000Y-129199000D03*
+%TD*%
+%TO.C,M3*%
+X182365000Y-115949000D03*
+%TD*%
+%TO.C,M4*%
+X99815000Y-115949000D03*
+%TD*%
+M02*
